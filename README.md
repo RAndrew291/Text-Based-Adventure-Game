@@ -1,7 +1,7 @@
 # Text-Based Adventure Game
 
 ## Overview
-**Text-Based Adventure Game** is an interactive text-based role-playing game where players explore different rooms, collect items, battle enemies, and navigate a dynamic game world. The game follows the classic *World of Zuul* style, allowing players to issue commands to move, interact with objects, and engage in combat.
+**Text-Based Adventure Game** is an interactive text-based role-playing game where players explore different rooms, collect items, battle enemies, and navigate a game world. The game follows the classic *World of Zuul* style, allowing players to issue commands to move, interact with objects, and engage in combat.
 
 ## Features
 - **Exploration**: Players can navigate through various rooms with unique descriptions and challenges.
